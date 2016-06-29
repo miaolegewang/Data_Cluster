@@ -1,0 +1,68 @@
+div.container {
+	width: 80%;
+	margin: 0 auto;
+	border: 1px #d9d9d9 solid;
+}
+
+div._contain_box_model {
+	margin: 15px 10px;
+	padding: 10px;
+	border: 1px #d9d9d9 solid;
+}
+ 
+div.header {
+	border-bottom: 1px #d9d9d9 solid;
+	height: 45px;
+}
+
+div.header h3 {
+	width: 400px;
+	float: left;
+}
+
+div.radio label {
+	width: 100px;
+	float: left;
+}
+
+h3.operation {
+	margin-top: 0px;
+	height: 23px;
+	float: left;
+	width: 400px;
+}
+
+div.button_bfd div.back{
+	margin: 10px;
+	float: left;
+}
+
+div.button_bfd div.proceed{
+	margin: 10px;
+	float: right;
+}
+
+div.radio label.hierarchy {
+	width: 300px;
+}
+
+div.radio label.protein_clustering {
+	width: 350px;
+}
+
+div.radio label.microarray {
+	width: 350px;
+}
+
+div.applet {
+	width: 200px;
+	margin: 0 auto;
+}
+
+div.applet applet.java_applet {
+	width: 200px;
+}
+
+.graph_title:hover {
+	background-color: blue;
+}
